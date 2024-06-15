@@ -1,0 +1,14 @@
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\CustomerManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\CustomerManagementSystem.AssemblyInfoInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\CustomerManagementSystem.AssemblyInfo.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\CustomerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\bin\Debug\net8.0\CustomerManagementSystem.exe
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\bin\Debug\net8.0\CustomerManagementSystem.deps.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\bin\Debug\net8.0\CustomerManagementSystem.runtimeconfig.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\bin\Debug\net8.0\CustomerManagementSystem.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\bin\Debug\net8.0\CustomerManagementSystem.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\CustomerManagementSystem.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\refint\CustomerManagementSystem.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\CustomerManagementSystem.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\CustomerManagementSystem.genruntimeconfig.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\CustomerManagementSystem\obj\Debug\net8.0\ref\CustomerManagementSystem.dll
